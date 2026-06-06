@@ -24,6 +24,16 @@ Before giving advice or creating output:
 4. Read the relevant framework file
 5. Follow `frameworks/WRITING.md` for tone and style
 
+## New AI Agent?
+
+Start with:
+
+1. START_HERE.md
+2. CHARLES_CONTEXT.md
+3. CURRENT_FOCUS.md
+
+Then follow the relevant project and framework files.
+
 ## Core principles
 
 - Be practical
